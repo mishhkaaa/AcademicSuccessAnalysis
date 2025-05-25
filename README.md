@@ -36,7 +36,7 @@ StudentPerformanceDNA/
 ## ⚙️ Installation & Setup
 1. **Clone the repository**
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/mishhkaaa/AcademicSuccessAnalysis
    cd StudentPerformanceDNA
    ```
 2. **Set up Python environment**
@@ -67,4 +67,4 @@ StudentPerformanceDNA/
 - pandas, plotly, seaborn, matplotlib, scikit-learn, streamlit
 
 ## ✨ Credits
-Developed by [Your Name], 2nd-year BE student, for the Data Visualization with Python term project.
+Developed by Mishka for the Data Visualization with Python term project.

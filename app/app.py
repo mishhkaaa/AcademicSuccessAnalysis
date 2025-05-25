@@ -13,6 +13,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.model_selection import train_test_split
+from timeseries import simulate_terms, create_term_radar, create_term_line_chart
 import warnings
 warnings.filterwarnings('ignore')
 
@@ -283,7 +284,7 @@ def main():
     st.markdown("---")
     st.markdown(
         "**Student Performance DNA Dashboard** | Built with Streamlit & Python | "
-        "Data Visualization Project by 2nd Year BE Student"
+        "Data Visualization Project"
     )
 
 if __name__ == "__main__":
