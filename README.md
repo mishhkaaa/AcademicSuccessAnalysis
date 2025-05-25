@@ -46,7 +46,7 @@ StudentPerformanceDNA/
 1. **Clone the repository**
     ```bash
     git clone https://github.com/mishhkaaa/AcademicSuccessAnalysis
-    cd StudentPerformanceDNA
+    cd AcademicSuccessAnalysis
     ```
 
 2. **Set up Python environment**
