@@ -91,10 +91,4 @@ StudentPerformanceDNA/
 
 ---
 
-## ✨ Credits
-
-Developed by Mishka for the Data Visualization with Python term project.
-
----
-
 > For questions or contributions, please open an issue or submit a pull request.
